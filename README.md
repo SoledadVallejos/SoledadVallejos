@@ -19,6 +19,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<h3>📎 How to reach me:</h3>
+<h3>📎 How to reach me</h3>
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)
