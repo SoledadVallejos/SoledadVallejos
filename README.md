@@ -1,4 +1,4 @@
-### Hola, soy Sole 👋
+### Hola, soy Soledad 👋
 
 ![pngtree-blue-minimalist-clothing-shop-home-image_174660](https://user-images.githubusercontent.com/84512521/123501849-2b5fe580-d61e-11eb-95c8-4ebf5d9bd522.jpg)
 
