@@ -1,7 +1,7 @@
 ### Hola, soy Sole 👋
 
 
-![Hi, I'm Soledad](https://github.com/SoledadVallejos/SoledadVallejos/blob/main/assets/hi.gif)
+![Hi, I'm Soledad](https://github.com/SoledadVallejos/SoledadVallejos/blob/main/hi.gif)
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)
  
