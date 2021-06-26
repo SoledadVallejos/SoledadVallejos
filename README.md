@@ -7,7 +7,7 @@
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)
  
 <p align='justify'> 
-  ⭐ Estudiante de Desarrollado Web Full Stack ✨
+  👩‍💻 Estudiante de Desarrollado Web Full Stack ✨
   
   🖥️ Soy nueva en este mundo de la programación, aunque me encuentro en continuo desarrollo para superarme día a día.
   
