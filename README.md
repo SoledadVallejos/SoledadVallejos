@@ -1,5 +1,7 @@
 ### Hola, soy Sole 👋
 
+![pngtree-blue-minimalist-clothing-shop-home-image_174660](https://user-images.githubusercontent.com/84512521/123501849-2b5fe580-d61e-11eb-95c8-4ebf5d9bd522.jpg)
+
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)
  
 <p align='justify'> 
