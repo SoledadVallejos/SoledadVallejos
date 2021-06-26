@@ -1,17 +1,16 @@
 ### Hola, soy Sole 👋
 
 
-
-<img width="100%"  align="top-center" alt="Github" src="https://user-images.githubusercontent.com/33135114/112470598-9bbe4880-8d49-11eb-9f04-ec7d57062929.png" />
+![Hi, I'm Soledad](https://github.com/SoledadVallejos/soledadvallejos/blob/main/assets/hi.gif)
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)
  
 <p align='justify'> 
-  👩‍💻 Estudiante de Desarrollado Web Full Stack ✨
+  👩‍💻 Estudiante de Desarrollado Web Full Stack
   
   🖥️ Soy nueva en este mundo de la programación, aunque me encuentro en continuo desarrollo para superarme día a día.
   
-  🍀 Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
+ ✅ Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
 
  ♥️ Gracias por visitar mi perfil ♥️
 
