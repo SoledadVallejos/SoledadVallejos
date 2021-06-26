@@ -21,7 +21,8 @@
 
 <h3>📎 How to reach me</h3>
 
- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)    <a href="mailto:soledad_vallejos@hotmail.com" ><img width="5%" src="https://user-images.githubusercontent.com/84512521/123502942-3a4a9600-d626-11eb-9281-59ef0cfdb538.jpg">
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/) <a href="mailto:soledad_vallejos@hotmail.com" ><img width="2.5%" src="https://user-images.githubusercontent.com/84512521/123503783-7df3ce80-d62b-11eb-8adf-608fd20c47e7.png">
+
 
 
 
