@@ -23,4 +23,5 @@
 
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)](https://www.linkedin.com/in/mar%C3%ADa-soledad-vallejos/)
 
-![Correo electronico](https://user-images.githubusercontent.com/84512521/123502942-3a4a9600-d626-11eb-9281-59ef0cfdb538.jpg="mailto:soledad_vallejos@hotmail.com")]
+<a href="mailto:soledad_vallejos@hotmail.com" ><img width="5%" src="https://user-images.githubusercontent.com/84512521/123502942-3a4a9600-d626-11eb-9281-59ef0cfdb538.jpg">
+
