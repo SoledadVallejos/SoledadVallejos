@@ -13,7 +13,7 @@
   
   🍀 Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
 
-  💜 Gracias por visitar mi perfil 💜
+ ♥️ Gracias por visitar mi perfil ♥️
 
 
 <h3>🛠 Tech Stack</h3>
