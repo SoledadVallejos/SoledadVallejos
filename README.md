@@ -4,7 +4,7 @@
 
  <p align='justify'>
  
-  👩‍💻 Estudiante de Desarrollado Web Full Stack
+  👩‍💻 Estudiante de Desarrollo Web Full Stack
   
   🖥️ Soy nueva en este mundo de la programación, aunque me encuentro en continuo desarrollo para superarme día a día.
   
