@@ -20,6 +20,8 @@
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+   ![EXPRESS](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+   ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
 
 <h3>📎 How to reach me</h3>
 
