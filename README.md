@@ -22,6 +22,7 @@
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
    ![EXPRESS](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
    ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
+   ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=react)
 
 <h3>📎 How to reach me</h3>
 
