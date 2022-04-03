@@ -4,7 +4,7 @@
 
  <p align='justify'>
  
-  👩‍💻 Estudiante de Desarrollo.
+  👩‍💻 Estudiante de Análisis de Sistemas.
   
   🖥️ Soy nueva en este mundo de la programación, aunque me encuentro en continuo desarrollo para superarme día a día.
   
