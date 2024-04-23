@@ -6,8 +6,6 @@
  
   👩‍💻 Estudiante de Análisis de Sistemas.
   
-  🖥️ Soy nueva en este mundo de la programación, aunque me encuentro en continuo desarrollo para superarme día a día.
-  
  ✅ Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
 
  ♥️ Gracias por visitar mi perfil ♥️
