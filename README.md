@@ -18,10 +18,12 @@
    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
    ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlserver)
    ![REACT](https://img.shields.io/badge/-REACT-333333?style=flat&logo=react)
-   ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
    ![REDUX](https://img.shields.io/badge/-REDUX-333333?style=flat&logo=redux)
+   ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+   ![MUI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui)
+  
    
 
 <h3>📎 How to reach me</h3>
