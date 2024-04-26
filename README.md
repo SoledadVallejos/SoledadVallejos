@@ -6,7 +6,7 @@
  
   👩‍💻 Estudiante de Análisis de Sistemas.
   
- ✅ Disfruto mucho aprendiendo y todas las cosas por aprender me mantienen motivada.
+ ✅ Front End Developer.
 
  ♥️ Gracias por visitar mi perfil ♥️
 
